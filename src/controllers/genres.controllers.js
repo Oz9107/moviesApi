@@ -1,3 +1,4 @@
+//genres.js
 const catchError = require('../utils/catchError');
 const Genres = require('../models/Genres');
 const Movies = require('../models/Movies');

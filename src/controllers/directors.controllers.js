@@ -1,3 +1,4 @@
+//directors
 const catchError = require('../utils/catchError');
 const Directors = require('../models/Directors');
 const Movies = require('../models/Movies');

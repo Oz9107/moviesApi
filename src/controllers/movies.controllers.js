@@ -1,3 +1,4 @@
+//movies.controllers.js
 const catchError = require("../utils/catchError");
 const Movies = require("../models/Movies");
 const Genres = require("../models/Genres");

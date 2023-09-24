@@ -1,3 +1,4 @@
+//actors
 const catchError = require('../utils/catchError');
 const Actors = require('../models/Actors');
 const Movies = require('../models/Movies');
